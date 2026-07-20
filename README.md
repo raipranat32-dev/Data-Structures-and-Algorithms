@@ -10,6 +10,7 @@ A production-grade repository tracking data structures, algorithmic patterns, an
 | [0031-next-permutation](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A production-grade repository tracking data structures, algorithmic patterns, an
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -31,4 +33,8 @@ A production-grade repository tracking data structures, algorithmic patterns, an
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
