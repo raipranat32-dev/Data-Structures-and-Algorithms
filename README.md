@@ -46,5 +46,6 @@ A production-grade repository tracking data structures, algorithmic patterns, an
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
