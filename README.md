@@ -14,6 +14,7 @@ A production-grade repository tracking data structures, algorithmic patterns, an
 | [0075-sort-colors](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
+| [0485-max-consecutive-ones](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
