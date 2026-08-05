@@ -15,6 +15,7 @@ A production-grade repository tracking data structures, algorithmic patterns, an
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,4 +50,8 @@ A production-grade repository tracking data structures, algorithmic patterns, an
 | ------- |
 | [0009-palindrome-number](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
