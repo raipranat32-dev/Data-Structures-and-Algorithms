@@ -9,6 +9,7 @@ A production-grade repository tracking data structures, algorithmic patterns, an
 | [0001-two-sum](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
@@ -53,5 +54,6 @@ A production-grade repository tracking data structures, algorithmic patterns, an
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
