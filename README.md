@@ -17,6 +17,7 @@ A production-grade repository tracking data structures, algorithmic patterns, an
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0704-binary-search) |
 ## Hash Table
@@ -37,6 +38,7 @@ A production-grade repository tracking data structures, algorithmic patterns, an
 | [0075-sort-colors](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -60,5 +62,18 @@ A production-grade repository tracking data structures, algorithmic patterns, an
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0704-binary-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
