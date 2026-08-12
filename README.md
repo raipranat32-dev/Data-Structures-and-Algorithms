@@ -10,6 +10,7 @@ A production-grade repository tracking data structures, algorithmic patterns, an
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
@@ -26,6 +27,7 @@ A production-grade repository tracking data structures, algorithmic patterns, an
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0073-set-matrix-zeroes) |
 ## Two Pointers
 |  |
@@ -52,6 +54,7 @@ A production-grade repository tracking data structures, algorithmic patterns, an
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
