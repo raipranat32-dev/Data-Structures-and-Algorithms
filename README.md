@@ -12,6 +12,7 @@ A production-grade repository tracking data structures, algorithmic patterns, an
 | [0033-search-in-rotated-sorted-array](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -29,6 +30,7 @@ A production-grade repository tracking data structures, algorithmic patterns, an
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0073-set-matrix-zeroes) |
 ## Two Pointers
 |  |
@@ -76,4 +78,8 @@ A production-grade repository tracking data structures, algorithmic patterns, an
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
