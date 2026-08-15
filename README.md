@@ -16,6 +16,7 @@ A production-grade repository tracking data structures, algorithmic patterns, an
 | [0073-set-matrix-zeroes](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
@@ -26,6 +27,7 @@ A production-grade repository tracking data structures, algorithmic patterns, an
 | ------- |
 | [0001-two-sum](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A production-grade repository tracking data structures, algorithmic patterns, an
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,6 +57,7 @@ A production-grade repository tracking data structures, algorithmic patterns, an
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -82,4 +86,12 @@ A production-grade repository tracking data structures, algorithmic patterns, an
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0054-spiral-matrix) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
