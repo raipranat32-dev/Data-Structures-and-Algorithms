@@ -1,22 +1,19 @@
 class Solution {
-    static int freqCounter(int[] nums, int cf)
-    {
-        int freq=0;
-        for(int i=0; i<nums.length; i++)
-        {
-            if(cf == nums[i])
-            freq++;
-        }
-        return freq;
-    }
     public int majorityElement(int[] nums) {
-     for(int i=0 ; i<nums.length ; i++)
-     {
-      if(freqCounter(nums,nums[i]) > (nums.length/2))
-      return nums[i];
-      else
-      continue;
-     }   
-     return 0;
-}
+        int candidate = 0;
+        int count = 0;
+
+        for (int num : nums) {
+            if (count == 0) {
+                candidate = num;
+                count = 1;
+            } else if (num == candidate) {
+                count++;
+            } else {
+                count--;
+            }
+        }
+
+        return candidate; // majority element guaranteed to exist
+    }
 }
