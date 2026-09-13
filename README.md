@@ -45,6 +45,7 @@ A production-grade repository tracking data structures, algorithmic patterns, an
 | [0189-rotate-array](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
+| [0876-middle-of-the-linked-list](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
@@ -103,6 +104,7 @@ A production-grade repository tracking data structures, algorithmic patterns, an
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
