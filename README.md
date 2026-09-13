@@ -103,10 +103,12 @@ A production-grade repository tracking data structures, algorithmic patterns, an
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
