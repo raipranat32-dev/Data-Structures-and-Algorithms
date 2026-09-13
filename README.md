@@ -66,6 +66,7 @@ A production-grade repository tracking data structures, algorithmic patterns, an
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
@@ -104,6 +105,7 @@ A production-grade repository tracking data structures, algorithmic patterns, an
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
@@ -111,6 +113,7 @@ A production-grade repository tracking data structures, algorithmic patterns, an
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
