@@ -39,6 +39,7 @@ A production-grade repository tracking data structures, algorithmic patterns, an
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
@@ -103,6 +104,7 @@ A production-grade repository tracking data structures, algorithmic patterns, an
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0876-middle-of-the-linked-list) |
