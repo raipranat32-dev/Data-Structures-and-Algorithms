@@ -29,6 +29,7 @@ A production-grade repository tracking data structures, algorithmic patterns, an
 | ------- |
 | [0001-two-sum](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 ## Matrix
@@ -44,6 +45,7 @@ A production-grade repository tracking data structures, algorithmic patterns, an
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
@@ -90,6 +92,7 @@ A production-grade repository tracking data structures, algorithmic patterns, an
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
@@ -110,6 +113,7 @@ A production-grade repository tracking data structures, algorithmic patterns, an
 | [0002-add-two-numbers](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/raipranat32-dev/Data-Structures-and-Algorithms/tree/master/0237-delete-node-in-a-linked-list) |
