@@ -1,0 +1,61 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
+class Solution {
+    public ListNode midFind(ListNode head)
+{
+    ListNode slow=head;
+    ListNode fast = head.next;
+    while(fast != null && fast.next != null)
+    {
+        fast = fast.next.next;
+        slow = slow.next;
+    }
+    return slow;
+}
+public ListNode merge(ListNode right, ListNode left)
+{ 
+    ListNode newnode = new ListNode(-1);
+    ListNode newhead = newnode;
+    while(right != null && left != null)
+    {
+        if(right.val <= left.val)
+        {
+        newnode.next = right;
+        right=right.next;
+        }
+        else
+        {
+        newnode.next = left;
+        left = left.next;
+        }
+        newnode = newnode.next;
+    }
+
+    if(right != null) {
+            newnode.next = right;
+        }
+    if(left != null) {
+            newnode.next = left;
+        } 
+    return newhead.next;
+}
+    public ListNode sortList(ListNode head) {
+        if(head == null || head.next == null)
+        return head;
+        ListNode mid = midFind(head);
+        ListNode lefth = head;
+        ListNode righth = mid.next;
+        mid.next = null;
+        lefth = sortList(lefth);
+        righth  = sortList(righth);
+         return merge(lefth , righth);
+    }
+}
